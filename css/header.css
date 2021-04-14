@@ -1,0 +1,54 @@
+.jumbotron {
+    background: url("../assets/myBackground.jpg") no-repeat;
+    background-size: cover;
+    color: wheat;
+    font-weight: bolder;
+    height: 125vh;
+    margin-bottom: 0;
+}
+
+.my-name {
+    color: rgb(192, 227, 238);
+    margin-top: 0;
+    font-weight: bold;
+    text-shadow: 3px 4px 5px darkblue;
+}
+
+.intro {
+    font-size: 20px;
+    color: wheat;
+}
+
+#myPict {
+    margin-left: 15px;
+}
+
+.name-block {
+    margin-top: 150px;
+}
+
+.pic-adjust {
+    border-radius: 50%;
+}
+
+.typewriter h1 {
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+    white-space: nowrap; /* Keeps the content on a single line */
+    margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+    letter-spacing: .1em; /* Adjust as needed */
+    animation: 
+    typing 3.5s steps(30, end),
+    blink-caret .5s step-end infinite;
+  }
+  
+  /* The typing effect */
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+
+  .linky:hover {
+      color: red;
+  }
+  
+  

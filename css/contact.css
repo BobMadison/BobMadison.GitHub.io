@@ -1,0 +1,76 @@
+#formWrapper {
+    background-color: cornflowerblue;
+    margin: auto;
+    width: 100%;
+    padding: 10px;
+}
+    
+.msgBox {
+    height: 75px;
+}
+
+#formID {
+    text-align: center;
+    color: white;
+    text-shadow: 3px 4px 5px #000;
+} 
+
+.form-control {
+    width: 90%;
+    margin-left: 10px;
+    
+}
+
+.myBtn {
+    background-color: black;
+    color: white;
+    border: 3px solid white;
+    border-radius: 3px;
+    margin-left: 5px;
+    margin-bottom: 3px;
+}
+
+.myBtn:hover {
+    background-color: white;
+    color: black;
+    border: 3px solid black;
+}
+
+#formWrapper {
+    background-image: url("https://images.unsplash.com/photo-1564144006388-615f4f4abb6e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=60");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#innerPart {
+    border: 3px solid white;
+    margin-bottom: 5px;
+
+}
+
+.linked-in {
+    width: 88px;
+    height: 73px;
+    margin-top: 4px;
+}
+
+.git-hub {
+    width: 88px;
+    height: 73px;
+    margin-top: 4px;
+}
+
+.LI {
+    width: 100%;
+    height: 100%;
+}
+
+.GH {
+    width: 100%;
+    height: 100%;
+} 
+.flex-container  {
+    display: flex;
+    flex-direction: column;
+
+}

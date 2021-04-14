@@ -1,0 +1,13 @@
+#projects  {
+    background-image: linear-gradient(to right,lightblue 0%,darkblue 100%);
+}
+
+.h1Projects  {
+    text-align: center;
+    text-shadow: 3px 4px 5px white;
+}
+
+.col {
+    color: whitesmoke;
+}
+

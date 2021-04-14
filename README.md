@@ -1,6 +1,6 @@
 ﻿# BobMadison.GitHub.io
 
-This portfolio is the final project for the Red Badge in the Software Development course with the Eleven Fifty Academy. It contains a Navbar, bootstrap JumboTron, three rows of three boostrap cards, a contact section, and a copyright footer.
+This portfolio is the final project for the Red Badge in the Software Development course with the Eleven Fifty Academy. It contains a Navbar, bootstrap JumboTron, three rows of three bootstrap cards, a contact section, and a copyright footer.
 
 There is a link to a resume in the JumboTron. Following the JumboTron is the About section (also accessed from the navbar.)
 After the About section there is a 3-card section with the three projects for the Gold Badge in Eleven Fifty's Web Development course.

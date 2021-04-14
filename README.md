@@ -4,27 +4,39 @@ This portfolio is the final project for the Red Badge in the Software Developmen
 
 There is a link to a resume in the JumboTron. Following the JumboTron is the About section (also accessed from the navbar.)
 After the About section there is a 3-card section with the three projects for the Gold Badge in Eleven Fifty's Web Development course.
+
 Row 1, Card 1: CSS Creature. Clicking the button takes you to a directory (VampireKoala) on my www.robert-david-madison.com website.
+
 Row 1, Card 2: NETFLIX Static Web page. Clicking the button takes you to a directory (NetflixStaticPage) on my site.
+
 Row 1, Card 3: National Parks API. Clicking the button takes you to a directory (NationalParksAPI) on my site.
 
 Row 2, Card 1: CSS Creature. Clicking the button takes you to a directory (VampireKoala) on my site.
+
 Row 2, Card 2: Static Storefront. Clicking the button takes you to a directory (StaticStoreFront) on my site.
+
 Row 2, Card 3: Cities of North America. Unfortunately, I wasn't able to successfully deploy this really nice project to Azure. Currently, if you click the button you go to the National Parks API on my site.
                
 Row 3, Card 1: Clicking the button will take you to the Software Development Gold Badge projects on GitHub. These were solo.
+
 Row 3, Card 2: Clicking the button will take you to the Software Development Blue Badge project on GitHub. This was a three-man effort.
+
 Row 3, Card 3: Clicking the button will take you to the Software Development Team Game project on GitHub. This was an effort of three people.
 
 Next is the communication section. There's a link to my LinkedIn and GitHub. You can also leave a message via Formspree.
 
 RED BADGE PROJECT
 This is the link to trello --->>> https://trello.com/b/pgRx4lBE/cities-of-north-america. I didn't really keep up with it as I knew what I wanted to do and how to do it.
+
 This is the link to the Table Diagrams --->>> https://dbdiagram.io/d/605cd6aaecb54e10c33d491b I did keep up with them, and this table diagram is 100% accurate. This link can also be accessed through Trello.
+
 This is the link to the wire frames --->>> https://bsyl9v.axshare.com. I used this as a very basic guide as my actual pages were, in my opinion, much better. This link can also be accessed through Trello.
 
+
 The Cities of North America WVC Project
+
 In edition to a user table, there were three other tables.
+
 1. City table. This table included the name and the state or province of the city.
 2. Restaurant table. Name, cuisine, and location information. Associated with the City ID foreign key.
 3. Site table. Name, description, and location information. Associated with the City ID foreign key.
